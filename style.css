@@ -137,3 +137,52 @@
         padding: 0px 0px 0px 70px;
     }
 }
+/* service start */
+.all-tx-era {
+    
+    margin-bottom: 100px;
+}
+.mo {
+    display: flex;
+    justify-content: center;
+}
+.mo h2 {
+    width: 18%;
+    padding: 5px 0px;
+    font-size: 15px;
+    font-weight: 600;
+    background-color: #E6EEFF;
+    color: #1764FF
+}
+.cart-1 {
+    border: 1px solid rgb(214, 221, 230);
+    background-color: #FFFFFF;
+    height:52vh;
+    margin-top: -30px;
+}
+.cart-2 {
+    border: 1px solid rgb(214, 221, 230);
+    background-color: #FFFFFF;
+    height:52vh;
+}
+.cart-3 {
+    border: 1px solid rgb(214, 221, 230);
+    background-color: #FFFFFF;
+    height:52vh;
+    margin-top: -30px;
+}
+.cart-4 {
+    border: 1px solid rgb(214, 221, 230);
+    background-color: #FFFFFF;
+    height:52vh;
+}
+.box:hover{
+    background-color: #e9f7fff6;
+    
+}
+.text-xl:hover{
+    color: #3306d2;
+}
+
+
+/* service section end */
